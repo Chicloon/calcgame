@@ -4,9 +4,6 @@ begin-app
 @static
 folder dist
 
-@http
-get /api
-
 @tables
 data
   scopeID *String
